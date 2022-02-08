@@ -2,7 +2,7 @@
 
 ![alt text](https://github.com/Purvi-modi/ReactJSCounterApp/blob/master/Counter%20App.png?raw=true)
 
-This is a counter app to 
+# This is a counter app to 
 
 # 1. increment counter
 ![alt text](https://github.com/Purvi-modi/ReactJSCounterApp/blob/master/Increment.png?raw=true)
